@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">english-assessment-portal</string>
+    <string name="title_activity_main">english-assessment-portal</string>
+    <string name="package_name">com.saidmera.myapp</string>
+    <string name="custom_url_scheme">com.saidmera.myapp</string>
+</resources>
