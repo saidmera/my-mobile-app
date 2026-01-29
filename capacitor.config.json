@@ -1,5 +1,6 @@
 {
-  "appId": "com.saidmera.myapp",
-  "appName": "english-assessment-portal",
-  "webDir": "dist"
+  "appId": "com.example.app",
+  "appName": "my-mobile-app",
+  "webDir": "dist",
+  "bundledWebRuntime": false
 }
