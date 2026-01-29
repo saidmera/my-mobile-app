@@ -1,0 +1,16 @@
+
+{
+  "name": "english-assessment-portal",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Advanced English Assessment Hub",
+  "scripts": {
+    "start": "npx serve .",
+    "build": "echo 'Ready for static deployment'"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "recharts": "^3.7.0"
+  }
+}
